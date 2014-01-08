@@ -1,4 +1,4 @@
 Pong
 ====
 
-One of the greatest invention in the known universe.
+One of the greatest inventions in the known universe.
